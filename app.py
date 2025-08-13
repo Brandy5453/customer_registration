@@ -1,5 +1,5 @@
 import streamlit as st 
-import mysql.connector
+# import mysql.connector
 
 
 id = int(st.number_input("Enter your customer ID", format="%d"))
